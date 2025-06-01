@@ -14,7 +14,7 @@ Signal modification block.
 ---
 ## Photos
 Circuit on a breadboard
-<div align="center"> <img src="/Images/Circuit/circuit_on_breadboard.jpg"> </div>
+<div align="center"> <img src="/Images/Circuit/circuit_on_breadboard.jpeg"> </div>
 
 ---
 ## Schematic
