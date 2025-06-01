@@ -23,7 +23,7 @@ Oscillator block
 RC Filters block
 <div align="center"> <img src="/Images/Circuit/rc_filters_block.png"> </div>
 Signal Modification block
-<div align="center"> <img src="/Images/Circuit/signal_modification_block_block.png"> </div>
+<div align="center"> <img src="/Images/Circuit/signal_modification_block.png"> </div>
 
 ---
 ## Signals
