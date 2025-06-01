@@ -28,4 +28,4 @@ Signal Modification block
 ---
 ## Signals
 All signals (sine, triangle and square)
-<div align="center"> <img src="/Images/Oscilloscope signals/square_triangle_sine.png"> </div>
+<div align="center"> <img src="/Images/Oscillocscope signals/square_triangle_sine.png"> </div>
